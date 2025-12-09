@@ -1,6 +1,3 @@
-# Agentic-Portfolio-Proj
-Agentic AI portfolio Project
-
 # Project Assignment: Building an Agentic AI Assistant with LangChain and External Tools/APIs
 
 ## 1. High-Level Goal
